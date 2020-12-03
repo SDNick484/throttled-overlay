@@ -1,6 +1,6 @@
 # throttled-overlay
 
-Gentoo Portage overlay for the [throttled](https://github.com/erpalma/throttled) tool.  Forked from https://github.com/erpalma/throttled-overlay and updated for Python 3.8 support.
+Gentoo Portage overlay for the [throttled](https://github.com/prsutherland/throttled) tool which is a fork of https://github.com/erpalma/throttled.  This Portage Overlay repo is forked from https://github.com/erpalma/throttled-overlay and updated to use prsutherland's fork and for the ebuild to include Python 3.8 support.
 
 ## local overlays
 
