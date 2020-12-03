@@ -1,6 +1,6 @@
 # throttled-overlay
 
-Gentoo Portage overlay for the [throttled](https://github.com/erpalma/throttled) tool.
+Gentoo Portage overlay for the [throttled](https://github.com/erpalma/throttled) tool.  Forked from https://github.com/erpalma/throttled-overlay and updated for Python 3.8 support.
 
 ## local overlays
 
@@ -21,7 +21,7 @@ Afterwards, simply run `emerge --sync`, and Portage should seamlessly make the e
 
 Invoke the following:
 
-	layman -o https://github.com/erpalma/throttled-overlay/raw/master/repositories.xml -f -a throttled
+	layman -o https://github.com/SDNick484/throttled-overlay/raw/master/repositories.xml -f -a throttled
 	
 Or read the instructions on the [Gentoo Wiki](http://wiki.gentoo.org/wiki/Layman#Adding_custom_repositories).
 
