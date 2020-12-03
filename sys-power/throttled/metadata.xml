@@ -2,11 +2,11 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
   <maintainer type="person">
-    <email>palmarini@unive.it</email>
-    <name>Francesco Palmarini</name>
+    <email>sdnick484@gmail.com</email>
+    <name>Nick Andrade</name>
   </maintainer>
   <upstream>
-    <remote-id type="github">erpalma/throttled</remote-id>
+    <remote-id type="github">prsutherland/throttled</remote-id>
   </upstream>
 </pkgmetadata>
 
